@@ -2,7 +2,8 @@ Write c++ module which could be called from python. Maybe writing(understanding)
 
 Understand "{0!r:20}".format("Hello"). (https://wiki.python.org/moin/Py3kStringFormatting)
 
+Read pydoc (/usr/bin/pydoc) and understand.
 
-Start from Exercise-13
+ctrl + l clears out the console. How I could find the all the default key bindings in my Mac?
 
 
