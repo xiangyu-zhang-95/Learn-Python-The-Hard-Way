@@ -3,5 +3,6 @@ Write c++ module which could be called from python. Maybe writing(understanding)
 Understand "{0!r:20}".format("Hello"). (https://wiki.python.org/moin/Py3kStringFormatting)
 
 
+Start from Exercise-13
 
 
