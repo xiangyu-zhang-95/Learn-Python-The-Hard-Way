@@ -1,6 +1,6 @@
 Write c++ module which could be called from python. Maybe writing(understanding) some format method for string would be a good start. (https://www.python.org/dev/peps/pep-3101/)
 
-
+Understand "{0!r:20}".format("Hello"). (https://wiki.python.org/moin/Py3kStringFormatting)
 
 
 
