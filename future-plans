@@ -5,5 +5,3 @@ Understand "{0!r:20}".format("Hello"). (https://wiki.python.org/moin/Py3kStringF
 Read pydoc (/usr/bin/pydoc) and understand.
 
 ctrl + l clears out the console. How I could find the all the default key bindings in my Mac?
-
-file object in python built-in library has .tell() to tell the location. How about write in the middle of the file? To do that, we need to be able to navigate the file without calling readline() method (readline() change the location to the next "\n" character).
