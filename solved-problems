@@ -8,3 +8,7 @@ https://stackoverflow.com/questions/10053286/intx-base-square-brackets-in-functi
 https://stackoverflow.com/questions/1718903/what-do-square-brackets-mean-in-function-class-documentation
 8.6 Fucntion definition at https://docs.python.org/3/reference/compound_stmts.html#function-definitions
 
+alias the command in .bashrc (alias py=python3), but in script.sh, "py a.py" is not recognized as "python3 a.py"
+Answer: alias is not extended to non-interactive shells.
+https://unix.stackexchange.com/questions/1496/why-doesnt-my-bash-script-recognize-aliases
+
