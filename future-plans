@@ -5,3 +5,9 @@ Understand "{0!r:20}".format("Hello"). (https://wiki.python.org/moin/Py3kStringF
 Read pydoc (/usr/bin/pydoc) and understand.
 
 ctrl + l clears out the console. How I could find the all the default key bindings in my Mac?
+
+understand the description of params in python documentation.
+Ex: in "pydoc file" manual page,
+file(name[, mode[, buffering]]) -> file object
+
+what does POSIX mean? POSIX specifies the standard for shell?
