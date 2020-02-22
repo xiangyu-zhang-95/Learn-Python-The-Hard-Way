@@ -3,6 +3,8 @@ Answer: Could not write in the middle without overwriting existent content. seek
 
 understand the description of params in python documentation.
 Ex: in "pydoc file" manual page, file(name[, mode[, buffering]]) -> file object
-Answer: See https://stackoverflow.com/questions/10053286/intx-base-square-brackets-in-functions-in-python-documentation.
-
+Answer: See
+https://stackoverflow.com/questions/10053286/intx-base-square-brackets-in-functions-in-python-documentation.
+https://stackoverflow.com/questions/1718903/what-do-square-brackets-mean-in-function-class-documentation
+8.6 Fucntion definition at https://docs.python.org/3/reference/compound_stmts.html#function-definitions
 
