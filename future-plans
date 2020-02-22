@@ -7,3 +7,7 @@ Read pydoc (/usr/bin/pydoc) and understand.
 ctrl + l clears out the console. How I could find the all the default key bindings in my Mac?
 
 what does POSIX mean? POSIX specifies the standard for shell?
+
+alias the command in .bashrc (alias py=python3), but in script.sh, "py a.py" is not recognized as "python3 a.py". 
+
+Finished Chapter 19
