@@ -1,0 +1,2 @@
+file object in python built-in library has .tell() to tell the location. How about write in the middle of the file? To do that, we need to be able to navigate the file without calling readline() method (readline() change the location to the next "\n" character).
+Answer: Could not write in the middle without overwriting existent content. seek() to change the location, and then call write(). readline() changes the location, but when call write(), all content is appended at the end of the file.
